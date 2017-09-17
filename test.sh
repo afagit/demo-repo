@@ -4,4 +4,4 @@ echo testing
 
 date
 
-ps -ef
+#ps -ef
