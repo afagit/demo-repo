@@ -2,3 +2,6 @@
 
 echo testing
 
+date
+
+ps -ef
